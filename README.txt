@@ -10,7 +10,7 @@ Zip file includes:
 3. README
 
 GitHub URL: 
-
+https://github.com/mjmmusique/ChucK-Simple-Feature-Extractor
 
 Description:
 This is a simple audio feature extractor created in ChucK. The only software requirement is that you have ChucK and the WekiInputHelper installed on your computer.
